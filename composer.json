@@ -1,0 +1,18 @@
+{
+  "name": "darkkn1ght/rewards-ussd",
+  "autoload": {
+    "psr-4": {
+      "Darkkn1ght\\RewardsUssd\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "darkarnold",
+      "email": "arnoldndiwalana@gmail.com"
+    }
+  ],
+  "require": {
+    "africastalking/africastalking": "dev-develop",
+    "altorouter/altorouter": "1.1.0"
+  }
+}
